@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/sber_build/static/css/main.8e15156b.chunk.css",
-    "main.js": "/sber_build/static/js/main.8da0701f.chunk.js",
+    "main.js": "/sber_build/static/js/main.96b7f998.chunk.js",
     "runtime-main.js": "/sber_build/static/js/runtime-main.64b52242.js",
     "static/css/2.a49ae880.chunk.css": "/sber_build/static/css/2.a49ae880.chunk.css",
-    "static/js/2.0e08114a.chunk.js": "/sber_build/static/js/2.0e08114a.chunk.js",
+    "static/js/2.3c479291.chunk.js": "/sber_build/static/js/2.3c479291.chunk.js",
     "index.html": "/sber_build/index.html",
-    "static/js/2.0e08114a.chunk.js.LICENSE.txt": "/sber_build/static/js/2.0e08114a.chunk.js.LICENSE.txt",
+    "static/js/2.3c479291.chunk.js.LICENSE.txt": "/sber_build/static/js/2.3c479291.chunk.js.LICENSE.txt",
     "static/media/1.1a072bff.png": "/sber_build/static/media/1.1a072bff.png",
     "static/media/2.67ef0e09.png": "/sber_build/static/media/2.67ef0e09.png",
     "static/media/3.5ed753d1.png": "/sber_build/static/media/3.5ed753d1.png",
@@ -44,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.64b52242.js",
     "static/css/2.a49ae880.chunk.css",
-    "static/js/2.0e08114a.chunk.js",
+    "static/js/2.3c479291.chunk.js",
     "static/css/main.8e15156b.chunk.css",
-    "static/js/main.8da0701f.chunk.js"
+    "static/js/main.96b7f998.chunk.js"
   ]
 }
