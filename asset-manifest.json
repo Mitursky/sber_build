@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sber_build/static/css/main.8e15156b.chunk.css",
-    "main.js": "/sber_build/static/js/main.bfab2f62.chunk.js",
+    "main.js": "/sber_build/static/js/main.1904e3c0.chunk.js",
     "runtime-main.js": "/sber_build/static/js/runtime-main.64b52242.js",
     "static/css/2.a49ae880.chunk.css": "/sber_build/static/css/2.a49ae880.chunk.css",
     "static/js/2.3c479291.chunk.js": "/sber_build/static/js/2.3c479291.chunk.js",
@@ -46,6 +46,6 @@
     "static/css/2.a49ae880.chunk.css",
     "static/js/2.3c479291.chunk.js",
     "static/css/main.8e15156b.chunk.css",
-    "static/js/main.bfab2f62.chunk.js"
+    "static/js/main.1904e3c0.chunk.js"
   ]
 }
