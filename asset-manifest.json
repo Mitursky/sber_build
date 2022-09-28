@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sber_build/static/css/main.e3ba4e6d.chunk.css",
-    "main.js": "/sber_build/static/js/main.93239c1b.chunk.js",
+    "main.js": "/sber_build/static/js/main.e70ed434.chunk.js",
     "runtime-main.js": "/sber_build/static/js/runtime-main.64b52242.js",
     "static/css/2.a49ae880.chunk.css": "/sber_build/static/css/2.a49ae880.chunk.css",
     "static/js/2.3c479291.chunk.js": "/sber_build/static/js/2.3c479291.chunk.js",
@@ -30,7 +30,7 @@
     "static/media/logo.28317137.svg": "/sber_build/static/media/logo.28317137.svg",
     "static/media/menu.50039757.png": "/sber_build/static/media/menu.50039757.png",
     "static/media/ok.b3e2ab4b.svg": "/sber_build/static/media/ok.b3e2ab4b.svg",
-    "static/media/prime.34648175.png": "/sber_build/static/media/prime.34648175.png",
+    "static/media/prime.2d6db95c.png": "/sber_build/static/media/prime.2d6db95c.png",
     "static/media/profile.4231a648.png": "/sber_build/static/media/profile.4231a648.png",
     "static/media/resultAccent.26213a2e.svg": "/sber_build/static/media/resultAccent.26213a2e.svg",
     "static/media/sberCat.7e43908d.svg": "/sber_build/static/media/sberCat.7e43908d.svg",
@@ -46,6 +46,6 @@
     "static/css/2.a49ae880.chunk.css",
     "static/js/2.3c479291.chunk.js",
     "static/css/main.e3ba4e6d.chunk.css",
-    "static/js/main.93239c1b.chunk.js"
+    "static/js/main.e70ed434.chunk.js"
   ]
 }
